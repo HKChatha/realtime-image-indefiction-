@@ -1,0 +1,23 @@
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px lavender;
+}
+.heading_div{
+float:none;
+background: white;
+padding: 10px;
+border-radius: 20px;
+color: darkblue;
+box-shadow: 5px 5px 5p lavender;
+}
+.heading_div2
+{
+font-size: 18px;
+}
+.result_para_tag
+{
+box-shadow: 5px 5px 5px lavender;
+font-size: 20px;
+}
